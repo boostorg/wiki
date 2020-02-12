@@ -1,2 +1,3 @@
 # wiki
-Boost Wiki
+
+The Boost GitHub Wiki
